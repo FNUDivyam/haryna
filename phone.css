@@ -1,0 +1,14 @@
+/* navbar  */
+
+#navbar{
+flex-direction: column;
+}
+
+#navbar ul li a{
+    font-size: 0.8rem;
+    color: white;
+}
+
+#home:before{
+    margin-top: -10px;
+} 
